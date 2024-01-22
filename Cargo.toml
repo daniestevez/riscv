@@ -5,4 +5,5 @@ members = [
     "riscv-pac",
     "riscv-rt",
     "riscv-semihosting",
+    "riscv-rt/test-build",
 ]
